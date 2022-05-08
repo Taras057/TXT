@@ -1,1 +1,13 @@
-
+summary : type error
+Project : Name_project
+Version : Version_error
+Severity : Major
+priority : Medium
+Status : status_bug
+Author : Author_bug
+Assignet_to : Name_emploee
+environment : os, browser
+Steps_to_reproduce : steps
+Result : Result
+Expected_result : correct result expected
+Attachment : file_to_logs,screenshot
