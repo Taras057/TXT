@@ -1,0 +1,6 @@
+Skills_1 - "json"
+Skills_2 - "xml"
+Skills_3 - "http"
+Skills_4 - "mobile_testing"
+Skills_5 - "dev_tools"
+Skills_6 - "Postman"
