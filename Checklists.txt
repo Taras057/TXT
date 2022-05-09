@@ -9,4 +9,4 @@
    Copy                      ok/bug
    Paste                     ok/bug
    Delete                    ok/bug
-   Find                      ok/bug.
+   Find                      ok/bug
