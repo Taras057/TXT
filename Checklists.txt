@@ -1,0 +1,12 @@
+     TEST                    RESULT
+
+   Add File                  ok/bug
+   Open File                 ok/bug
+   Save File                 ok/bug
+   Print File                ok/bug
+   Editing a file             
+   Cancellation              ok/bug
+   Copy                      ok/bug
+   Paste                     ok/bug
+   Delete                    ok/bug
+   Find                      ok/bug
